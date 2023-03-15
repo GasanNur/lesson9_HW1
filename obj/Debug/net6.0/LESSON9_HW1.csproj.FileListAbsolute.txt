@@ -1,0 +1,15 @@
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\bin\Debug\net6.0\LESSON9_HW1.exe
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\bin\Debug\net6.0\LESSON9_HW1.deps.json
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\bin\Debug\net6.0\LESSON9_HW1.runtimeconfig.json
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\bin\Debug\net6.0\LESSON9_HW1.dll
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\bin\Debug\net6.0\LESSON9_HW1.pdb
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.csproj.AssemblyReference.cache
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.GeneratedMSBuildEditorConfig.editorconfig
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.AssemblyInfoInputs.cache
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.AssemblyInfo.cs
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.csproj.CoreCompileInputs.cache
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.dll
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\refint\LESSON9_HW1.dll
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.pdb
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\LESSON9_HW1.genruntimeconfig.cache
+O:\Личное\GB\C#\Seminar №9\HW\LESSON9_HW1\obj\Debug\net6.0\ref\LESSON9_HW1.dll
